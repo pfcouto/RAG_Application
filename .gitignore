@@ -1,0 +1,6 @@
+.env
+.env.docker
+data/dataset.index
+note.txt
+wynova_venv
+app/__pycache__/
